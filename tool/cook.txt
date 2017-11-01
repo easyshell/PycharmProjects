@@ -1,0 +1,10 @@
+Accept:text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8
+Accept-Encoding:gzip, deflate, br
+Accept-Language:zh-CN,zh;q=0.9
+Cache-Control:max-age=0
+Connection:keep-alive
+Cookie:gr_user_id=0c58d572-628f-449f-928b-732828b0afb9; pgv_pvi=1834924032; acw_tc=AQAAACNRFlIhoQEAV8eLd3DDP4Q6T72S; session=01e22a1492ce78da0585e68458e07060d7d245ea; _ga=GA1.2.1506246740.1508830568; _gid=GA1.2.1252954891.1509524390; Hm_lvt_1c587ad486cdb6b962e94fc2002edf89=1508917388,1508922652,1508982946,1509524391; Hm_lpvt_1c587ad486cdb6b962e94fc2002edf89=1509528341; gr_session_id_eee5a46c52000d401f969f4535bdaa78=0e2b7340-6b46-429b-99a3-b195d39810c0
+Host:www.itjuzi.com
+If-Modified-Since:Wed, 01 Nov 2017 08:21:30 GMT
+Upgrade-Insecure-Requests:1
+User-Agent:Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.62 Safari/537.36
